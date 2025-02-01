@@ -4,6 +4,7 @@
   "description": "Arduino IDE Dark Theme!",
   "version": "1.0.0",
   "publisher": "MystiTechDIY",
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/MystiTechDIY/arduino-dark-theme"
@@ -29,6 +30,13 @@
         "label": "Arduino Dark Theme ",
         "uiTheme": "vs-dark",
         "path": "./themes/Arduino Dark Theme -color-theme.json"
+      }
+    ]
+  },
+  "gallery": {
+    "images": [
+      {
+        "src": "screenshot.jpg"
       }
     ]
   }
