@@ -12,11 +12,8 @@
   "keywords": [
     "theme",
     "arduino",
-    "IDE",
-    "Arduino IDE",
-    "Arduino Dark",
-    "dark",
-    "dark theme"
+    "ide",
+    "dark"
   ],
   "engines": {
     "vscode": "^1.96.0"
@@ -30,13 +27,6 @@
         "label": "Arduino Dark Theme ",
         "uiTheme": "vs-dark",
         "path": "./themes/Arduino Dark Theme -color-theme.json"
-      }
-    ]
-  },
-  "gallery": {
-    "images": [
-      {
-        "src": "screenshot.jpg"
       }
     ]
   }
