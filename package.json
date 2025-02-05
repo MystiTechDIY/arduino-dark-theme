@@ -2,7 +2,7 @@
   "name": "arduino-dark-theme",
   "displayName": "Arduino Dark Theme",
   "description": "Arduino-Inspired Dark Theme for Visual Studio Code",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "MystiTechDIY",
   "icon": "icon.png",
   "repository": {
