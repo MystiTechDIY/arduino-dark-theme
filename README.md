@@ -1,4 +1,4 @@
-# ⭐ Arduino-Inspired Dark Theme for Visual Studio Code
+# Arduino-Inspired Dark Theme for Visual Studio Code
 
 ### A theme for Arduino Dark enthusiasts who can't let go of its classic colors.
 
@@ -17,7 +17,7 @@
 4. Edit the file and save your changes.
 5. After saving, the new settings should be automatically loaded.
 
-### The full file (settings.json) should look something like this:
+The full file (settings.json) should look something like this:
 ```json
 {
   "[jsonc]": {
@@ -35,6 +35,7 @@
   "editor.bracketPairColorization.enabled": false
 }
  ```
+---
 
 ## 📌 Changing the Default Formatting in VS Code  
 
@@ -49,7 +50,7 @@ PointerAlignment: Left
 DerivePointerAlignment: false
 ColumnLimit: 120
  ```
-### Explanation of the settings:
+Explanation of the settings:
 
 `BasedOnStyle: Google` – Uses Google's default formatting as a base, which includes 2-space indentation and other common conventions.
 
@@ -60,6 +61,8 @@ ColumnLimit: 120
 `DerivePointerAlignment: false` – Ensures that pointer alignment is explicitly set by PointerAlignment.
 
 `ColumnLimit: 120` – Sets the maximum line length. Default is 80 characters, but 120 allows for longer lines.
+
+---
 
 ## 🖼️ Screenshots:
 
