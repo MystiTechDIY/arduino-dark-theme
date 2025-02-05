@@ -55,7 +55,7 @@ ColumnLimit: 120
 
 `AllowShortIfStatementsOnASingleLine: AllIfsAndElse` – Allows short if statements and if-else blocks to stay on a single line. 
 
-`PointerAlignment: Left` – Formats pointers as `char *ptr` instead of `char* ptr`.
+`PointerAlignment: Left` – Formats pointers as `char* ptr` instead of `char *ptr`.
 
 `DerivePointerAlignment: false` – Ensures that pointer alignment is explicitly set by PointerAlignment.
 
