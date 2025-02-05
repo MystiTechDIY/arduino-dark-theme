@@ -18,3 +18,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [1.0.4] - 2025-02-05
 - Update README.
+
+## [1.0.5] - 2025-02-05
+- Update README.
