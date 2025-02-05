@@ -15,3 +15,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [1.0.3] - 2025-02-02
 - Update README and theme description.
+
+## [1.0.4] - 2025-02-05
+- Update README.
